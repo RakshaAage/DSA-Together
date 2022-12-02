@@ -1,4 +1,4 @@
-//Problem no 4
+//Problem name : To check whether two given strings are an anagram of each other or not.
 //Problem link : https://practice.geeksforgeeks.org/problems/anagram-1587115620/1?page=1&curated[]=8&sortBy=submissions
 
 
