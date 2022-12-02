@@ -1,4 +1,4 @@
-//Problem No 3
+//Problem Name : Missing number in array
 //Problem link : https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&curated[]=8&sortBy=submissions
 
 
